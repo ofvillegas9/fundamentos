@@ -5,6 +5,13 @@ body {
     text-align: center;
 }
 div {
+    border: solid #999 1rem;
     
+}
+
+footer {
+    text-align: center;
+    color: cadetblue;
+    font-size: 1rem;
 }
 
